@@ -253,6 +253,3 @@ print(f'O volume do cilindro é de {volume}')
 valorinicial = int(input('Digite o valor do produto especificado:'))
 valorfinal = print(f'O valor do produto com desconto fica: {valorinicial*.88}')
 """
-
-valorinicial = int(input('Digite o valor do produto especificado:'))
-valorfinal = print(f'O valor do produto com desconto fica: {valorinicial*.88}')
